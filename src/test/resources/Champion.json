@@ -1,0 +1,11 @@
+{
+  "name": "Vi",
+  "type": "Diver",
+  "price": 4800,
+  "skills": ["Blast Shield", "Vault Breaker", "Denting Blows", "Relentless Force", "Cease and Desist"],
+  "stats": {
+    "health": 2338,
+    "armor": 109,
+    "damage": 114
+  }
+}
